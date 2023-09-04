@@ -99,7 +99,7 @@ A passionate developer from Colombia, I'm new to this environment, so treat me n
 <p align="center">
 <a href="https://twitter.com/ssgp_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/santanaal._" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://www.telegram.com/@geralsantana" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_alt_macos_bigsur_icon_189660.png" alt="telegram" height="50" width="50" /></a>
+<a href="https://www.telegram.com/geralsantana" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_alt_macos_bigsur_icon_189660.png" alt="telegram" height="55" width="55" /></a>
 
 
 </p>
