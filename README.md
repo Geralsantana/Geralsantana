@@ -45,13 +45,14 @@ A passionate developer from Colombia, I'm new to this environment, so treat me n
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,mysql," />
   </a>
-</p>
+</p>div
+</div>
+<!--tech stack icons-->
+
 
 
 <!-- Connect with me -->
