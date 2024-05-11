@@ -47,7 +47,7 @@ A passionate developer from Colombia, I'm new to this environment, so treat me n
   </ul>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,mysql," />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,mysql,php,javascript" />
   </a>
 </p>div
 </div>
