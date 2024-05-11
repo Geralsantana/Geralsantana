@@ -27,9 +27,9 @@ A passionate developer from Colombia, I'm new to this environment, so treat me n
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **HTML5, CSS3, MySQL WORKBENCH**
+- 🔭 I’m currently working on **HTML5, CSS3, MySQL WORKBENCH, PHP, JS**
 
-- 🌱 I’m currently learning **HTML5, CSS3, MySQL WORKBENCH**
+- 🌱 I’m currently learning **HTML5, CSS3, MySQL WORKBENCH, PHP, JS**
 
 - 📫 Do not hesitate to contact me at my personal account **geraldinsantana1@gmail.com**
 
